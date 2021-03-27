@@ -12,7 +12,5 @@ function Dog (breed) {
     return "Woof";
   };
 }
-
 var snoopy = new Dog("Beagle");
-
 var scoobydoo = new Dog("Great Dane");
